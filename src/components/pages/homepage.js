@@ -1,5 +1,6 @@
 import React, { Component } from 'react'; 
 import TopSection from './topSection';
+import Music from './music';
 
 class Homepage extends Component {
   	render() {
@@ -11,7 +12,7 @@ class Homepage extends Component {
 				<p>Duis auctor volutpat varius. Nulla ornare dolor ipsum, et imperdiet massa posuere non. Fusce auctor velit ut urna vulputate placerat. Suspendisse potenti. Integer eget fringilla tellus. Nulla sed sodales lectus, a auctor turpis. Nam porta luctus hendrerit. Donec ac maximus leo, sit amet pretium quam.</p>
  		
 				<TopSection/>
-
+				<Music />
 			</div>
 	    );
   	}
