@@ -60,6 +60,7 @@ class Header extends Component {
 				        <li><Link to="/#HOME">Home</Link></li>
 				        <li><Link to="/#ABOUT">About</Link></li>
 				        <li><Link to="/#MUSIC">Music</Link></li> 
+				        <li><a href="#MUSIC">SAMPLE</a></li>
 				      </ul>
 				    </div> 
 				  </div> 
